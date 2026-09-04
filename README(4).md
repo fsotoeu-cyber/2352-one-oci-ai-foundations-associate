@@ -205,6 +205,25 @@ directa  Datos  Gráfico     Datos
 
 ---
 
+## 📸 Capturas de pantalla
+
+> Pendiente: agregar imágenes reales en `docs/images/` y reemplazar las rutas de ejemplo abajo.
+
+| Módulo | Captura |
+|--------|---------|
+| Auditoría | `docs/images/auditoria.png` |
+| Análisis (chat) | `docs/images/analisis.png` |
+| Gráficos | `docs/images/graficos.png` |
+| Historial | `docs/images/historial.png` |
+
+```markdown
+![Auditoría](docs/images/auditoria.png)
+![Análisis](docs/images/analisis.png)
+![Gráficos](docs/images/graficos.png)
+```
+
+---
+
 ## ⚙️ Configuración
 
 ### Variables de entorno (obligatorias)
