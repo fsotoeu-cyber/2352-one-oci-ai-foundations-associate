@@ -8,6 +8,16 @@ Combina un agente **ReAct** basado en LangChain y Groq con **cálculo determinis
 
 ---
 
+[![Python](https://img.shields.io/badge/Python-3.13+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Groq](https://img.shields.io/badge/Groq-openai/gpt--oss--120b-00A67E)](https://groq.com/)
+[![LangSmith](https://img.shields.io/badge/LangSmith-Observability-green)](https://smith.langchain.com/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+---
+
+
 ## 🚀 Aplicación desplegada
 
 La aplicación está publicada en **Streamlit Community Cloud**.
